@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.venv/
+*/Python_3_12_2venv/
+
+.idea/
+.vscode/
+.qtcreator/
+*.user
